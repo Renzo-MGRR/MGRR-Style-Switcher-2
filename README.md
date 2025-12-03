@@ -14,9 +14,9 @@ Number 4 to change Style in keyboard, LEFT_STICK_PRESS + B/CIRCLE in controller,
 Compared to previous versions, the Styles format has been changed, it has better stability and the Weapon Switcher has been removed to avoid crashes. A separate mod might be released for that.
 
 Credits to:
-RuslanchikX for the original idea and the original version of Style Switcher.
-_all_of_this_ends_here (a.k.a FutureGohan) for adapting Style Switcher to the newest MGR PLUGIN SDK version.
-Space Core for general help in the project and with C++.
-Aura for rewriting Style Switcher almost completely for better readability and implement some of the improvements.
-Frouk for the mgr-plugin-sdk and the ImGui template.
-The ImGui team for ImGui.
+- RuslanchikX for the original idea and the original version of Style Switcher.
+- _all_of_this_ends_here (a.k.a FutureGohan) for adapting Style Switcher to the newest MGR PLUGIN SDK version.
+- Space Core for general help in the project and with C++.
+- Aura for rewriting Style Switcher almost completely for better readability and implement some of the improvements.
+- Frouk for the mgr-plugin-sdk and the ImGui template.
+- The ImGui team for ImGui.
