@@ -5,7 +5,7 @@ Current features:
 - Switch between styles in-game based on a Style list defined in an .ini file through buttons
 - All settings can be found in Styles.ini too.
 - Can change settings in game by accessing the ImGui Menu with a key. Default keys are:
-(Number 4 to change Style in keyboard, LEFT_STICK_PRESS + B/CIRCLE in controller, Number 9 to open the menu on keyboard). These are remappable.
+Number 4 to change Style in keyboard, LEFT_STICK_PRESS + B/CIRCLE in controller, Number 9 to open the menu on keyboard. These are remappable.
 - Infinite amount of Styles, cycling through them.
 - Plays a sound for switching Styles; uses a different when reaching vanilla.
 - Can start from an specific Style.
